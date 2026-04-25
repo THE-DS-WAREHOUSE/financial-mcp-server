@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+mcp[cli]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+xgboost
+scikit-learn
+numpy
+pandas
+transformers
+torch
