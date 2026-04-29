@@ -2,6 +2,8 @@ fastapi
 uvicorn
 mcp[cli]
 sqlalchemy
+databases
+asyncpg
 psycopg2-binary
 python-dotenv
 xgboost
